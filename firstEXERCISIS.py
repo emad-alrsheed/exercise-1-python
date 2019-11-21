@@ -8,10 +8,8 @@ Created on Tue Nov 19 13:01:30 2019
 
 print("HELLO")
 
-print('''hello 
-              hello
-                  hello
-      ''')
+print("hello\n\thello\n\thello")
+
 #num 2
 
 print("orang Acadmy"*20)
@@ -88,7 +86,7 @@ print(Area)
 
 name="emad"
 age=15
-Age=1992+100-27
+Age=1992+(100)
 print(Age)
 #5
 
